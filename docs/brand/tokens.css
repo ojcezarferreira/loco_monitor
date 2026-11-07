@@ -1,0 +1,107 @@
+/*
+ * Loco Monitor — tokens de referência da issue #1.
+ * O atributo de tema delimita o escopo; a implementação resolve a preferência
+ * "system" para "light" ou "dark" e aplica o atributo ao contêiner do monitor.
+ * Os pares min/max preservam as faixas tipográficas propostas.
+ * Fonte dos valores e papéis: ./tokens.json.
+ */
+
+[data-loco-monitor-theme="light"],
+[data-loco-monitor-theme="dark"] {
+  --lm-font-sans: "IBM Plex Sans", system-ui, sans-serif;
+  --lm-font-mono: "IBM Plex Mono", ui-monospace, monospace;
+
+  --lm-font-weight-regular: 400;
+  --lm-font-weight-medium: 500;
+  --lm-font-weight-semibold: 600;
+
+  --lm-font-size-page-title-min: 24px;
+  --lm-font-size-page-title-max: 28px;
+  --lm-font-size-section-title-min: 16px;
+  --lm-font-size-section-title-max: 18px;
+  --lm-font-size-body: 14px;
+  --lm-font-size-control-min: 13px;
+  --lm-font-size-control-max: 14px;
+  --lm-font-size-metric-min: 28px;
+  --lm-font-size-metric-max: 32px;
+  --lm-font-size-metadata-min: 12px;
+  --lm-font-size-metadata-max: 13px;
+  --lm-font-size-technical-min: 12px;
+  --lm-font-size-technical-max: 13px;
+  --lm-font-size-log-min: 13px;
+  --lm-font-size-log-max: 14px;
+
+  --lm-font-variant-numeric: tabular-nums;
+  --lm-radius-min: 6px;
+  --lm-radius-max: 8px;
+}
+
+[data-loco-monitor-theme="light"] {
+  color-scheme: light;
+
+  --lm-background: #F7F7F8;
+  --lm-surface: #FFFFFF;
+  --lm-surface-raised: #F0F0F2;
+  --lm-border-subtle: #DDDEE3;
+  --lm-border-control: #818792;
+  --lm-text-primary: #18191C;
+  --lm-text-secondary: #626773;
+  --lm-primary: #B54728;
+  --lm-primary-hover: #973B21;
+  --lm-primary-foreground: #FFFFFF;
+  --lm-primary-subtle: #FBEDE7;
+  --lm-focus-ring: #B54728;
+
+  --lm-state-running-foreground: #1D5EC9;
+  --lm-state-running-background: #EDF4FF;
+
+  --lm-state-success-foreground: #18794E;
+  --lm-state-success-background: #EAF7EF;
+
+  --lm-state-warning-foreground: #8C5B0A;
+  --lm-state-warning-background: #FFF6D9;
+
+  --lm-state-error-foreground: #C0343D;
+  --lm-state-error-background: #FFF0F1;
+
+  --lm-state-scheduled-foreground: #6E49BF;
+  --lm-state-scheduled-background: #F3EEFF;
+
+  --lm-state-neutral-foreground: #626773;
+  --lm-state-neutral-background: #F0F0F2;
+}
+
+[data-loco-monitor-theme="dark"] {
+  color-scheme: dark;
+
+  --lm-background: #111214;
+  --lm-surface: #1A1C20;
+  --lm-surface-raised: #24272C;
+  --lm-border-subtle: #353940;
+  --lm-border-control: #707885;
+  --lm-text-primary: #F3F4F6;
+  --lm-text-secondary: #A7ADB7;
+  --lm-primary: #F08A65;
+  --lm-primary-hover: #F5A181;
+  --lm-primary-foreground: #21130D;
+  --lm-primary-subtle: #38251E;
+  --lm-focus-ring: #F08A65;
+
+  --lm-state-running-foreground: #81AFFF;
+  --lm-state-running-background: #1A2940;
+
+  --lm-state-success-foreground: #65D6A2;
+  --lm-state-success-background: #172E25;
+
+  --lm-state-warning-foreground: #E7C46A;
+  --lm-state-warning-background: #332B18;
+
+  --lm-state-error-foreground: #FF8B94;
+  --lm-state-error-background: #391F25;
+
+  --lm-state-scheduled-foreground: #BAA0F5;
+  --lm-state-scheduled-background: #2B2340;
+
+  --lm-state-neutral-foreground: #A7ADB7;
+  --lm-state-neutral-background: #24272C;
+}
