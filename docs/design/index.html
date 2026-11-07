@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="pt-BR" data-loco-monitor-theme="light">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Loco Monitor — revisão do design</title>
+<link rel="icon" href="../brand/icons/favicon.svg" type="image/svg+xml"><link rel="icon" href="../brand/icons/favicon.ico" sizes="any"><link rel="apple-touch-icon" href="../brand/icons/icon-light-180.png"><link rel="stylesheet" href="../brand/fonts/fonts.css"><link rel="stylesheet" href="../brand/tokens.css"><link rel="stylesheet" href="preview.css?v=20261107-forms">
+<a class="skip" href="#main">Ir ao conteúdo</a>
+<header><img src="../brand/logos/loco-monitor-symbol-light.svg" alt="" width="40" height="40"><strong>Loco Monitor</strong><span>Design em revisão · dados ilustrativos</span><label>Aparência <select id="theme"><option value="system">Sistema</option><option value="light">Claro</option><option value="dark">Escuro</option></select></label></header>
+<nav aria-label="Principal"><button id="overview" aria-current="page">Visão geral</button><button id="jobs">Jobs</button><button id="components">Componentes e marca</button><a href="README.md">Especificação</a></nav>
+<main id="main" tabindex="-1"><div class="heading"><div><h1 id="title">Visão geral das filas</h1><p id="freshness">Ambiente de demonstração · amostra de 07/11/2026, 19:42 UTC</p></div><label>Cenário de revisão <select id="scenario"><option value="ready">Com dados</option><option value="loading">Carregando</option><option value="empty">Vazio</option><option value="unavailable">Indisponível</option><option value="error">Erro</option><option value="denied">Acesso negado</option></select></label></div>
+<section id="content" aria-label="Conteúdo da demonstração"></section>
+<footer>Proposta visual · operações simuladas · aprovação do mantenedor pendente</footer></main>
+<dialog id="confirm" aria-labelledby="confirm-title"><h2 id="confirm-title">Reexecutar este job?</h2><p>Esta demonstração simula uma solicitação. Nenhum job será executado.</p><form method="dialog"><button autofocus value="cancel">Cancelar</button><button class="primary" value="retry">Simular reexecução</button></form></dialog>
+<dialog id="editor" aria-labelledby="editor-title"></dialog>
+<aside id="toasts" aria-label="Notificações"><div id="toast-success" class="toast" hidden><span class="toast-symbol" aria-hidden="true"></span><div class="toast-copy"><strong>Confirmação</strong><p role="status" aria-live="polite" aria-atomic="true"></p></div><button class="icon-button toast-dismiss" type="button" aria-label="Fechar confirmação">Fechar</button></div><div id="toast-error" class="toast toast-error" hidden><span class="toast-symbol" aria-hidden="true"></span><div class="toast-copy"><strong>Erro</strong><p role="alert" aria-live="assertive" aria-atomic="true"></p></div><button class="icon-button toast-dismiss" type="button" aria-label="Fechar erro">Fechar</button></div></aside>
+<script src="preview.js"></script>
+</html>

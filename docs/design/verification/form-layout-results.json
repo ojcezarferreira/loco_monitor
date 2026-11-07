@@ -1,0 +1,258 @@
+{
+  "desktop": [
+    {
+      "controls": [
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        }
+      ],
+      "mode": "light",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "filters",
+      "width": 1280
+    },
+    {
+      "controls": [
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        }
+      ],
+      "mode": "light",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "fields",
+      "width": 1280
+    },
+    {
+      "controls": [
+        {
+          "left": true,
+          "width": true
+        }
+      ],
+      "mode": "light",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "operation",
+      "width": 1280
+    },
+    {
+      "controls": [],
+      "mode": "light",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "confirm",
+      "width": 1280
+    },
+    {
+      "controls": [
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        }
+      ],
+      "mode": "dark",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "filters",
+      "width": 1280
+    },
+    {
+      "controls": [
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        }
+      ],
+      "mode": "dark",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "fields",
+      "width": 1280
+    },
+    {
+      "controls": [
+        {
+          "left": true,
+          "width": true
+        }
+      ],
+      "mode": "dark",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "operation",
+      "width": 1280
+    },
+    {
+      "controls": [],
+      "mode": "dark",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "confirm",
+      "width": 1280
+    }
+  ],
+  "mobile": [
+    {
+      "controls": [
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        }
+      ],
+      "mode": "light",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "filters",
+      "width": 320
+    },
+    {
+      "controls": [
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        }
+      ],
+      "mode": "light",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "fields",
+      "width": 320
+    },
+    {
+      "controls": [
+        {
+          "left": true,
+          "width": true
+        }
+      ],
+      "mode": "light",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "operation",
+      "width": 320
+    },
+    {
+      "controls": [],
+      "mode": "light",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "confirm",
+      "width": 320
+    },
+    {
+      "controls": [
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        }
+      ],
+      "mode": "dark",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "filters",
+      "width": 320
+    },
+    {
+      "controls": [
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        },
+        {
+          "left": true,
+          "width": true
+        }
+      ],
+      "mode": "dark",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "fields",
+      "width": 320
+    },
+    {
+      "controls": [
+        {
+          "left": true,
+          "width": true
+        }
+      ],
+      "mode": "dark",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "operation",
+      "width": 320
+    },
+    {
+      "controls": [],
+      "mode": "dark",
+      "overflow": false,
+      "pageOverflow": false,
+      "type": "confirm",
+      "width": 320
+    }
+  ]
+}

@@ -1,15 +1,25 @@
 /*
- * Loco Monitor — tokens de referência da issue #1.
- * O atributo de tema delimita o escopo; a implementação resolve a preferência
- * "system" para "light" ou "dark" e aplica o atributo ao contêiner do monitor.
- * Os pares min/max preservam as faixas tipográficas propostas.
- * Fonte dos valores e papéis: ./tokens.json.
+ * Loco Monitor reference tokens for issue #1.
+ * The theme attribute scopes these values. Resolve the "system" preference
+ * to "light" or "dark" on the monitor container.
+ * Min/max pairs preserve the proposed typography ranges.
+ * Value and role source: ./tokens.json.
  */
 
 [data-loco-monitor-theme="light"],
 [data-loco-monitor-theme="dark"] {
   --lm-font-sans: "IBM Plex Sans", system-ui, sans-serif;
   --lm-font-mono: "IBM Plex Mono", ui-monospace, monospace;
+
+  --lm-space-1: 4px;
+  --lm-space-2: 8px;
+  --lm-space-3: 12px;
+  --lm-space-4: 16px;
+  --lm-space-6: 24px;
+  --lm-space-8: 32px;
+  --lm-space-12: 48px;
+  --lm-control-min-height: 44px;
+  --lm-icon-stroke: 1.75;
 
   --lm-font-weight-regular: 400;
   --lm-font-weight-medium: 500;

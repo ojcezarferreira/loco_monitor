@@ -1,0 +1,870 @@
+{
+  "desktop": {
+    "failed": [],
+    "results": [
+      {
+        "name": "light/overview/ready/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/overview/ready/content",
+        "passed": true
+      },
+      {
+        "name": "light/overview/loading/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/overview/loading/content",
+        "passed": true
+      },
+      {
+        "name": "light/overview/loading/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/overview/empty/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/overview/empty/content",
+        "passed": true
+      },
+      {
+        "name": "light/overview/empty/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/overview/unavailable/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/overview/unavailable/content",
+        "passed": true
+      },
+      {
+        "name": "light/overview/unavailable/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/overview/error/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/overview/error/content",
+        "passed": true
+      },
+      {
+        "name": "light/overview/error/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/overview/denied/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/overview/denied/content",
+        "passed": true
+      },
+      {
+        "name": "light/overview/denied/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/ready/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/ready/content",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/loading/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/loading/content",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/loading/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/empty/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/empty/content",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/empty/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/unavailable/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/unavailable/content",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/unavailable/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/error/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/error/content",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/error/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/denied/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/denied/content",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/denied/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/ready/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/ready/content",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/loading/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/loading/content",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/loading/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/empty/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/empty/content",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/empty/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/unavailable/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/unavailable/content",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/unavailable/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/error/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/error/content",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/error/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/denied/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/denied/content",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/denied/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/ready/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/ready/content",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/loading/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/loading/content",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/loading/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/empty/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/empty/content",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/empty/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/unavailable/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/unavailable/content",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/unavailable/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/error/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/error/content",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/error/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/denied/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/denied/content",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/denied/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "queue link scopes jobs",
+        "passed": true
+      },
+      {
+        "name": "filter form opens in modal",
+        "passed": true
+      },
+      {
+        "name": "filter toast does not steal focus",
+        "passed": true
+      },
+      {
+        "name": "combined case-insensitive filters",
+        "passed": true
+      },
+      {
+        "name": "filters survive details/back",
+        "passed": true
+      },
+      {
+        "name": "search treated as text",
+        "passed": true
+      },
+      {
+        "name": "clear restores all jobs",
+        "passed": true
+      },
+      {
+        "name": "details/loading/hides-payload",
+        "passed": true
+      },
+      {
+        "name": "details/loading/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "details/empty/hides-payload",
+        "passed": true
+      },
+      {
+        "name": "details/empty/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "details/unavailable/hides-payload",
+        "passed": true
+      },
+      {
+        "name": "details/unavailable/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "details/error/hides-payload",
+        "passed": true
+      },
+      {
+        "name": "details/error/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "details/denied/hides-payload",
+        "passed": true
+      },
+      {
+        "name": "details/denied/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "modal starts at cancel",
+        "passed": true
+      },
+      {
+        "name": "retry success feedback",
+        "passed": true
+      },
+      {
+        "name": "repeat modal clears previous return value",
+        "passed": true
+      },
+      {
+        "name": "cancel does not repeat success",
+        "passed": true
+      },
+      {
+        "name": "no inline inputs in gallery",
+        "passed": true
+      },
+      {
+        "name": "invalid submit stays in modal",
+        "passed": true
+      },
+      {
+        "name": "valid submit closes modal and notifies",
+        "passed": true
+      },
+      {
+        "name": "pending disables operation",
+        "passed": true
+      },
+      {
+        "name": "operation failure toast",
+        "passed": true
+      },
+      {
+        "name": "operation recovery toast",
+        "passed": true
+      },
+      {
+        "name": "canceling pending operation cancels timer",
+        "passed": true
+      },
+      {
+        "name": "success uses polite status",
+        "passed": true
+      },
+      {
+        "name": "failure uses assertive alert",
+        "passed": true
+      },
+      {
+        "name": "error toast dismisses",
+        "passed": true
+      },
+      {
+        "name": "components/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "all five bundled fonts loaded",
+        "passed": true
+      },
+      {
+        "name": "no external runtime requests",
+        "passed": true
+      }
+    ],
+    "total": 102,
+    "viewport": {
+      "height": 577,
+      "width": 1280
+    }
+  },
+  "mobile": {
+    "failed": [],
+    "results": [
+      {
+        "name": "light/overview/ready/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/overview/ready/content",
+        "passed": true
+      },
+      {
+        "name": "light/overview/loading/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/overview/loading/content",
+        "passed": true
+      },
+      {
+        "name": "light/overview/loading/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/overview/empty/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/overview/empty/content",
+        "passed": true
+      },
+      {
+        "name": "light/overview/empty/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/overview/unavailable/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/overview/unavailable/content",
+        "passed": true
+      },
+      {
+        "name": "light/overview/unavailable/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/overview/error/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/overview/error/content",
+        "passed": true
+      },
+      {
+        "name": "light/overview/error/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/overview/denied/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/overview/denied/content",
+        "passed": true
+      },
+      {
+        "name": "light/overview/denied/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/ready/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/ready/content",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/loading/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/loading/content",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/loading/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/empty/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/empty/content",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/empty/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/unavailable/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/unavailable/content",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/unavailable/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/error/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/error/content",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/error/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/denied/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/denied/content",
+        "passed": true
+      },
+      {
+        "name": "light/jobs/denied/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/ready/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/ready/content",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/loading/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/loading/content",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/loading/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/empty/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/empty/content",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/empty/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/unavailable/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/unavailable/content",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/unavailable/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/error/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/error/content",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/error/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/denied/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/denied/content",
+        "passed": true
+      },
+      {
+        "name": "dark/overview/denied/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/ready/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/ready/content",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/loading/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/loading/content",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/loading/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/empty/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/empty/content",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/empty/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/unavailable/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/unavailable/content",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/unavailable/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/error/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/error/content",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/error/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/denied/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/denied/content",
+        "passed": true
+      },
+      {
+        "name": "dark/jobs/denied/no-stale-table",
+        "passed": true
+      },
+      {
+        "name": "queue link scopes jobs",
+        "passed": true
+      },
+      {
+        "name": "filter form opens in modal",
+        "passed": true
+      },
+      {
+        "name": "filter toast does not steal focus",
+        "passed": true
+      },
+      {
+        "name": "combined case-insensitive filters",
+        "passed": true
+      },
+      {
+        "name": "filters survive details/back",
+        "passed": true
+      },
+      {
+        "name": "search treated as text",
+        "passed": true
+      },
+      {
+        "name": "clear restores all jobs",
+        "passed": true
+      },
+      {
+        "name": "details/loading/hides-payload",
+        "passed": true
+      },
+      {
+        "name": "details/loading/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "details/empty/hides-payload",
+        "passed": true
+      },
+      {
+        "name": "details/empty/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "details/unavailable/hides-payload",
+        "passed": true
+      },
+      {
+        "name": "details/unavailable/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "details/error/hides-payload",
+        "passed": true
+      },
+      {
+        "name": "details/error/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "details/denied/hides-payload",
+        "passed": true
+      },
+      {
+        "name": "details/denied/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "modal starts at cancel",
+        "passed": true
+      },
+      {
+        "name": "retry success feedback",
+        "passed": true
+      },
+      {
+        "name": "repeat modal clears previous return value",
+        "passed": true
+      },
+      {
+        "name": "cancel does not repeat success",
+        "passed": true
+      },
+      {
+        "name": "no inline inputs in gallery",
+        "passed": true
+      },
+      {
+        "name": "invalid submit stays in modal",
+        "passed": true
+      },
+      {
+        "name": "valid submit closes modal and notifies",
+        "passed": true
+      },
+      {
+        "name": "pending disables operation",
+        "passed": true
+      },
+      {
+        "name": "operation failure toast",
+        "passed": true
+      },
+      {
+        "name": "operation recovery toast",
+        "passed": true
+      },
+      {
+        "name": "canceling pending operation cancels timer",
+        "passed": true
+      },
+      {
+        "name": "success uses polite status",
+        "passed": true
+      },
+      {
+        "name": "failure uses assertive alert",
+        "passed": true
+      },
+      {
+        "name": "error toast dismisses",
+        "passed": true
+      },
+      {
+        "name": "components/no-page-overflow",
+        "passed": true
+      },
+      {
+        "name": "all five bundled fonts loaded",
+        "passed": true
+      },
+      {
+        "name": "no external runtime requests",
+        "passed": true
+      }
+    ],
+    "total": 102,
+    "viewport": {
+      "height": 1100,
+      "width": 320
+    }
+  },
+  "axe": [
+    {
+      "mode": "light",
+      "view": "overview",
+      "violations": []
+    },
+    {
+      "mode": "light",
+      "view": "jobs",
+      "violations": []
+    },
+    {
+      "mode": "light",
+      "view": "components",
+      "violations": []
+    },
+    {
+      "mode": "dark",
+      "view": "overview",
+      "violations": []
+    },
+    {
+      "mode": "dark",
+      "view": "jobs",
+      "violations": []
+    },
+    {
+      "mode": "dark",
+      "view": "components",
+      "violations": []
+    }
+  ]
+}
